@@ -1,0 +1,32 @@
+<script src = "http://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js">
+</script>
+<div id="dd1">
+  <h1>Image Filter
+  </h1>
+</div>
+<div id="dd2">
+  <h2>
+  <ul>
+  <li>Load an any image from your device to apply filters.</li>
+  </ul>
+  </h2>
+</div>
+<div id="canvas-container">
+<canvas id ="can1">
+</canvas>
+  <p><b>Preview</b></p>
+</div>
+<div id="ctrl-container">
+  <p><b>select an image to upload.</b></p>
+   <p>File Name:
+  <input type = "file" multiple ="false" accept="image/*" id = "imgfile" onchange="loadImage()"/>
+  </p>
+  <p><b>select any filter.</b></p>
+  <p>
+    <input type="button" id="b1" value="Original" onclick="resetimage()">
+    <input type="button" id="b2" value="Grayscale" onclick="grayscale()">
+    <input type="button" id="b3" value="Red" onclick="red()">
+    <input type="button" id="b4" value="Rainbow" onclick="rainbow()">
+    <input type="button" id="b5" value="Blury" onclick="blurred()">
+  </p>
+</div>

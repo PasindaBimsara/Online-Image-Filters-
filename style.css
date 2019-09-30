@@ -1,0 +1,109 @@
+body{
+  background-color:#F5F5DC;
+}
+#dd1{
+  background-color:#FFFAF0;
+  border: solid black 5px;
+  border-radius:8px;
+  text-transform:uppercase;
+  text-align:center;
+}
+#dd2{
+   font: 15px arial, sans-serif;
+}
+#canvas-container{
+  text-align:center;
+}
+#canvas-container p{
+  word-spacing: 600px;
+}
+#can1{
+  width:600px;
+  height:300px;
+  margin:10px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+#ctrl-container{
+  text-align:center;
+}
+#b1 {
+  font-size:15px;
+  background-color: white;
+  color: black;
+  border: 2px solid black; /* Green */
+  border-radius:4px;
+  padding: 14px 16px;
+  width:100px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  
+}
+#b1:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+#b2 {
+  font-size:15px;
+  background-color: white;
+  color: black;
+  border: 2px solid black; /* Green */
+  border-radius:4px;
+  padding: 14px 16px;
+  width:100px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  
+}
+#b2:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+#b3 {
+  font-size:15px;
+  background-color: white;
+  color: black;
+  border: 2px solid black; /* Green */
+  border-radius:4px;
+  padding: 14px 16px;
+  width:100px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  
+}
+#b3:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+#b4 {
+  font-size:15px;
+  background-color: white;
+  color: black;
+  border: 2px solid black; /* Green */
+  border-radius:4px;
+  padding: 14px 16px;
+  width:100px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  
+}
+#b4:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+#b5 {
+  font-size:15px;
+  background-color: white;
+  color: black;
+  border: 2px solid black; /* Green */
+  border-radius:4px;
+  padding: 14px 16px;
+  width:100px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  
+}
+#b5:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
